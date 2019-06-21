@@ -7,5 +7,5 @@
     babel
 
 集合起来
-WEBPACK
+  WEBPACK
 前端构建工作
